@@ -1,0 +1,5 @@
+## Interface: 90205
+## Title: Mouse Look Binding
+## Notes: Adds ability to bind hotkey for mouse look toogling.
+## Author: Name Surname
+Bindings.xml

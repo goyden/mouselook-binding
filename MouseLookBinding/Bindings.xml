@@ -1,0 +1,9 @@
+<Bindings>
+    <Binding name="Toggle Mouse Look" category="ADDONS">
+        if IsMouselooking() then
+            MouselookStop()
+        else
+            MouselookStart()
+        end
+    </Binding>
+</Bindings>
